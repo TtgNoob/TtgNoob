@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Node CI](https://github.com/TtgNoob/gamingwithmodi/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/TtgNoob/gamingwithmodi/actions/workflows/node.js.yml)
 
 **TtgNoob/TtgNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
